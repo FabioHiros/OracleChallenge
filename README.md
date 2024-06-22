@@ -13,4 +13,4 @@ A letra "u" é convertida para "ufat"<br></p>
 
 <br><br>
 
-<img src="prancheta3.png" width='50' height='50'>
+<img src="Prancheta3.png" width='50' height='50'>
